@@ -112,7 +112,7 @@ OBS: [docs](https://medium.com/@adilsonbna/otimizando-espa%C3%A7os-de-docker-ima
 
 
 # Configurações NOMAD
-
+## Como o portal é .Net e roda no windows podería-se usar o nomad com o driver do IIS para orquestrar os apps e catalogar no consul roteando com traefik para os endpoints terem https por padrão.
 
 
 Driver IIS para o portal o S.O. Precisa ser Windows Server 2016
