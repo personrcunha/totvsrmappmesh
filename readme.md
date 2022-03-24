@@ -23,7 +23,7 @@ Usar para renderizar os arquivos a serem usados pelo orquestrador [Nomad](nomadp
 
 ## Nomad
 
-Usar para orquestrar os containeres relativos ao TOTVS.
+Usar para orquestrar as cargas de trabalho das aplicações relativas a sustentação do ambiente dos ERP's TOTVS.
 
 
 ## Vault
@@ -35,7 +35,7 @@ Usar este para gerir os certificados usados nas aplicações e dar acesso ao ban
 
 Usado para provisionar a infra necessária para que os serviços sejam instanciados.
 
-Este pode ter algumas versões de implementação: Vagrant, AWS, Azure e GCP.
+Fazer módulos que permitam o deploy de pelo menos: Vagrant, AWS, Azure e GCP.
 
 
 
@@ -66,15 +66,6 @@ Este pode ter algumas versões de implementação: Vagrant, AWS, Azure e GCP.
 Usando a imagem:
 
 - Na pasta files deve ter um arquivo com as informações do contrato de Licença.
-
-
-- Ao rodar o comando personcunha/totvslicenceserver
-
-
-docker run -p 
-
-
-
 
 
 # Compose
