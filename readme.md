@@ -83,6 +83,9 @@ Há outro serviço que pode ser implantado em container pois pode ser agrupado a
 
 
 
+# PORTABILIDADE
+
+[Atentar quanto a portabilidade ](https://tdn.totvs.com/display/public/LRM/Portabilidade)
 
 # Portal TOTVS RM
 
@@ -151,4 +154,8 @@ Driver IIS para o portal o S.O. Precisa ser Windows Server 2016
 # RM.Host.Service.exe.config
 
 Consul/Nomad Template pra renderizar os arquivos de configuração buscando dados da configuração no Key/Value do Consul
+
+[Portas de Serviços](https://tdn.totvs.com/display/public/LRM/Configurando+HttpPort+e+ApiPort)
+[Como Expor as Portas](https://tdn.totvs.com/pages/releaseview.action?pageId=89620766#Procedimentos--2064216015)
+[Habilitar REST](https://tdn.totvs.com/display/public/LRM/RestProcess)
 
