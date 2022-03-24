@@ -1,7 +1,7 @@
 
 # personcunha/totvsrmappmesh
 
-## Instalação do TOTVS RM Arquitetura Dockerizada
+## Instalação do TOTVS RM com Arquitetura de Operação na Nuvem
 
 #
 
@@ -136,3 +136,12 @@ Driver IIS para o portal o S.O. Precisa ser Windows Server 2016
     Powershell para instalar silenciosamente
 
     buscar configuração do Consul
+#Implementar o serviço de Cache centralizado para o ERP usando redis
+
+[TDN - Documentação dos detalhes de implantação](https://tdn.engpro.totvs.com.br/pages/releaseview.action?pageId=348295834)
+[Outra documentacao mesmo assunto](https://tdn.totvs.com/display/public/LRM/Cache+Centralizado+-+Get+Started)
+
+##TODO - Alterar para atender com Nomad usando driver docker.
+
+#RM.Host.Service.exe.config
+
