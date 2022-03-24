@@ -141,12 +141,14 @@ Driver IIS para o portal o S.O. Precisa ser Windows Server 2016
     Powershell para instalar silenciosamente
 
     buscar configuração do Consul
-#Implementar o serviço de Cache centralizado para o ERP usando redis
+# Implementar o serviço de Cache centralizado para o ERP usando redis
 
 [TDN - Documentação dos detalhes de implantação](https://tdn.engpro.totvs.com.br/pages/releaseview.action?pageId=348295834)
 [Outra documentacao mesmo assunto](https://tdn.totvs.com/display/public/LRM/Cache+Centralizado+-+Get+Started)
 
-##TODO - Alterar para atender com Nomad usando driver docker.
+## TODO - Alterar para atender com Nomad usando driver docker.
 
-#RM.Host.Service.exe.config
+# RM.Host.Service.exe.config
+
+Consul/Nomad Template pra renderizar os arquivos de configuração buscando dados da configuração no Key/Value do Consul
 
