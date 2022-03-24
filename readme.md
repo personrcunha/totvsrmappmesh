@@ -38,8 +38,13 @@ Usado para provisionar a infra necessária para que os serviços sejam instancia
 Fazer módulos que permitam o deploy de pelo menos: Vagrant, AWS, Azure e GCP.
 
 
+#Configurar o WebAPP
+
+[Os serviços protheus poder ser disponibilizados via web](https://tdn.totvs.com/display/tec/WebApp+-+Configurando+nativamente+o+Application+Server+como+servidor+Web)
 
 
+O broker pode consultar o Catalogo de serviços do consul para renderizar as rotas:
+[Brower Webapp](https://tdn.totvs.com/display/tec/Balanceamento+entre+Clientes+HTTP+e+servidor+Protheus)
 
 # Implementação do Licence Server da TOTVS
 
