@@ -52,7 +52,7 @@ O broker pode consultar o Catalogo de serviços do consul para renderizar as rot
 
 [Documentação da TOTVS - Instalação Licence Server Virtual](https://tdn.totvs.com/display/framework/TOTVS+License+Server+Virtual)
 
-![Alta Disponibilidade](https://tdn.totvs.com/download/attachments/244445844/2018-04-10_175.png?version=1&modificationDate=1523365307000&api=v2)
+### Tomar cuidado pois o licence server é um SPOF - PONTO UNICO DE FALHA
 
 [Guia de Gestão de Licenças do Portal TOTVS](https://tdn.totvs.com/pages/viewpage.action?pageId=172298980)
 
